@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+
+
+A E-commerce made with React and  commerce.js
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
